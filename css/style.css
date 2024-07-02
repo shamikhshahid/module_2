@@ -4,6 +4,10 @@
 p {
   background-color: green;
   border: 1px solid;
+  width: 90%;
+  height: 150px;
+  margin-right: auto;
+  margin-left: auto;
 }
   
 
